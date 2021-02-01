@@ -1,0 +1,55 @@
+#container
+{
+    margin:auto;
+    background-color: rgba(70, 150, 250, 0.5);
+    width: 80%;
+    color: white;
+    font-family: "Monotype Corsiva";
+}
+
+nav
+{
+	font-family:serif;
+	text-align:center;
+	width:85%;
+    margin:auto;
+    background-color:  rgba(255,255,255,0.5);
+    display: inline-block;
+}
+
+
+nav ul li a:hover
+{
+	
+}
+
+footer
+{
+	clear:both;
+}
+
+
+article img
+{
+	border:2px solid rgba(255,255,255,0.5);
+    float:right;
+    width: 40%;
+}
+
+body {
+    background-attachment:fixed;
+    background-image: url("bg.jpg");
+    font-style: "Monotype Corssiva";
+    font-size: 1.5em;
+}
+
+header {
+    padding: 2px solid rgba(255,255,255,0.5);
+    text-align: center;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    text-align: center;
+}
